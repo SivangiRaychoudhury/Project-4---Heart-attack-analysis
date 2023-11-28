@@ -4,7 +4,7 @@ Diagnosing Heart attacks using Machine Learning
 Team members: Caroline Foshee, Evan Woodard, Jamee Jones, Sivangi Raychoudhury
 
 Introduction:
-A heart attack (Cardiovascular disease) occurs when the flow of blood to the heart muscle suddenly becomes blocked. According to WHO statistics, 17.9 million people are dying from heart attack each year. The medical study says that human lifestyle is the main reason behind this heart problem. 
+A heart attack, also called a myocardial infarction, happens when a part of the heart muscle doesn’t get enough blood. According to WHO statistics, 17.9 million people are dying from heart attack each year. The medical study says that human lifestyle is the main reason behind this heart problem. 
 This dataset contains some medical information of patients which tells whether the chance of that person getting a heart attack is less or more. Data analysis of heart attack cases provides valuable insights into predicting and preventing heart attacks by examining patients' clinical characteristics and risk factors. Analyzing large datasets can reveal significant patterns and identify risk factors, contributing to more effective guidance of healthcare interventions.
 In the notebook, Heart_Attack_Analysis.ipynb, we will conduct an analysis on influential factors related to heart attacks. Subsequently, we will make predictions on the probability of individuals experiencing a heart attack, using different Machine Learning models and comparing their outputs to get the best model. 
 The dataset we worked on was found from Kaggel.com and the link to the page is: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset/data
